@@ -13,3 +13,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+.statistics_feedback {
+  display: flex;
+  flex-direction: column;
+  /* width: 100px; */
+  font-size: 20px;
+  font-weight: 700;
+}
+.statistic_style{
+  color: red;
+  width: 150px;
+}
+button{
+  margin: 5px;
+  font-size: 20px;
+  font-weight: 600;
+  background-color: aquamarine;
+}
+.title_feedback{
+  color: darkslateblue;
+}
